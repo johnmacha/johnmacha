@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **johmac002@gmail.com**
 
-- ⚡ Fun fact **I think am optimistic😊**
+- ⚡ Fun fact **I am eager to learn new things😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
