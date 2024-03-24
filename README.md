@@ -1,4 +1,5 @@
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm John Macharia</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 <img align = "center" alt = "Coding" width = "400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
@@ -17,7 +18,7 @@
 
 - 📫 How to reach me **johmac002@gmail.com**
 
-- ⚡ Fun fact **I think am optimistic😊**
+- ⚡ Fun fact **I am eager to learn new things😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
