@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **Django**
 
 - 📫 How to reach me **johmac002@gmail.com**
 
-- ⚡ Fun fact **I am eager to learn new things😊**
+- ⚡ Fun fact **I am good at chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
