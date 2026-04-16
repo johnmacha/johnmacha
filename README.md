@@ -26,7 +26,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<table align="center">
+<table align="center" cellspacing="10">
   <tr>
     <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</a></td>
     <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br/>CSS</a></td>
