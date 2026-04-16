@@ -30,7 +30,7 @@
     <td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br/>Django</a></td>
     <td align="center">
           <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java</a></td>
-  <a href="https://spring.io/projects/spring-boot">
+  <td><a href="https://spring.io/projects/spring-boot">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br/>
     Spring Boot
   </a>
