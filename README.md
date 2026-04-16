@@ -47,7 +47,13 @@
   <td align="center"><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>C++</a></td>
        <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br/>Docker</a></td>
     <td align="center"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase</a></td>
-  </tr>
+    <td align="center">
+  <a href="https://render.com/">
+    <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40"/><br/>
+    Render
+  </a>
+</td>
+
 
   <tr>
     <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git</a></td>
