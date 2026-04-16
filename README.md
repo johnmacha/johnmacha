@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm John Macharia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Software+Developer;Java+%7C+Python;DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Software+Developer;Java+%7C+Python;Backend-focused+Developer;DevOps+Enthusiast" />
 </p>
 
 <p align="center">
