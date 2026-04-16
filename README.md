@@ -53,7 +53,7 @@
     Render
   </a>
 </td>
-
+  </tr>
 
   <tr>
     <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git</a></td>
