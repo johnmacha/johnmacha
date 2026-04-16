@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Macharia</h1>
-<h3 align="center">Software Developer | Java • Python • Django</h3>
+<h3 align="center">Software Developer | Java • Python </h3>
 
 <p align="center">
   <a href="https://github.com/johnmacha">
