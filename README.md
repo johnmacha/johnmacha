@@ -1,17 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=John%20Macharia&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm John Macharia</h1>
-<h3 align="center">Software Developer | Java • Python </h3>
 
 <p align="center">
-  <a href="https://github.com/johnmacha">
-    <img src="https://komarev.com/ghpvc/?username=johnmacha&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Software+Developer;Java+%7C+Python+%7C+Django;DevOps+Enthusiast" />
 </p>
 
 <p align="center">
-  🔭 Currently working on <b>Java & Python</b> <br/>
-  🤝 Exploring <b>DevOps</b> <br/>
-  💬 Ask me about <b>Django</b> <br/>
-  ⚡ Fun fact: I play chess 
+  🔭 Java & Python &nbsp; • &nbsp;
+  🤝 DevOps &nbsp; • &nbsp;
+  💬 Django &nbsp; • &nbsp;
+  ♟️ Chess
+</p>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
