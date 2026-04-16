@@ -33,6 +33,18 @@
     Spring Boot
   </a>
 </td>
+    <td align="center">
+  <a href="https://spring.io/projects/spring-security">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br/>
+    Spring Security
+  </a>
+</td>
+    <td align="center">
+  <a href="https://maven.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="40"/><br/>
+    Maven
+  </a>
+</td>
     <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br/>Docker</a></td>
     <td align="center"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase</a></td>
   </tr>
