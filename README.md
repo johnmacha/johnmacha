@@ -49,7 +49,7 @@
     <td align="center"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br/>Firebase</a></td>
     <td align="center">
   <a href="https://render.com/">
-    <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40"/><br/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40"/><br/>
     Render
   </a>
 </td>
