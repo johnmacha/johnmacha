@@ -11,7 +11,7 @@
 <p align="center">
   🔭 Java & Python &nbsp; • &nbsp;
   🤝 DevOps &nbsp; • &nbsp;
-  💬 Django &nbsp; • &nbsp;
+  💬 Django || Spring Boot &nbsp; • &nbsp;
   ♟️ Chess
 </p>
 </p>
