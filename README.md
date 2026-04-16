@@ -28,9 +28,8 @@
     <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/><br/>CSS</a></td>
         <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</a></td>
     <td align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/><br/>Django</a></td>
-    <td align="center">
-          <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java</a></td>
-  <td><a href="https://spring.io/projects/spring-boot">
+              <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java</a></td>
+  <td align="center"><a href="https://spring.io/projects/spring-boot">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/><br/>
     Spring Boot
   </a>
