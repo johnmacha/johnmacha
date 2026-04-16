@@ -13,7 +13,7 @@
   💬 Ask me about <b>Django</b> <br/>
   ⚡ Fun fact: I play chess 
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/john-macharia-a98522180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john macharia" height="30" width="40" /></a>
 </p>
